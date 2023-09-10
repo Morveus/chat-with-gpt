@@ -160,7 +160,7 @@
     "description": "Étiquette pour un bouton qui apparaît lorsque l'utilisateur édite le texte de l'un de ses messages, pour annuler sans enregistrer les modifications"
   },
   "role-chatgpt": {
-    "defaultMessage": "ChatGPT",
+    "defaultMessage": "AI",
     "description": "Étiquette qui est affichée au-dessus des messages écrits par l'IA (par opposition à l'utilisateur)"
   },
   "role-system": {
